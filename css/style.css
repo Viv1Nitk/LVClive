@@ -1,0 +1,6 @@
+.background-image {
+    background-image: url('./images/liveclass.jpg');
+    background-size: cover; /* Adjust to your preference */
+    background-position: center center; /* Adjust to your preference */
+    /* Other styling properties */
+}
